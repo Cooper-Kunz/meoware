@@ -22,7 +22,9 @@ def gimmeMoreCats():
         display = Image.open("./images/"+image)
         display.show()
         #webbrowser doesn't work yet lolz
-        webbrowser.open("./images/"+image)
+        url = "https://www.youtube.com/watch?v=HxM46vRJMZs"
+        webbrowser.open_new(url)
+
 
 if __name__ == '__main__':
     
