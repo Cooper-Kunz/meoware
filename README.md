@@ -7,3 +7,5 @@ Clone github repo.
 Make the project your current directory.
 
 Run 'python meow.py' 
+
+See lots o' 🐱😻😼🐱
