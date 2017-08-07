@@ -3,11 +3,15 @@ Have you ever wanted your computer to be purrfectly populated with cats? Us too
 
 
 # How It Works
-Clone github repo. 
+1. Clone github repo
 
-Run via 'python meow.py' 
+2. Navigate into the meoware directory
 
-See lots o' 🐱😻😼🐱
+You'd do this by running a terminal command like "cd /meoware"
+
+3. Once in the meoware directory, run this by the command "python meow.py" 
+
+4. See lots o' 🐱😻😼🐱
 
 
 # DISCLAIMER
